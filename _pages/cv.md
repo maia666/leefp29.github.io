@@ -1,4 +1,4 @@
----
+![image](https://github.com/leefp29/leefp29.github.io/assets/47920574/d7717a7a-2dea-438a-a2a4-9775656cf984)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -15,17 +15,9 @@ Education
 * M.S. in HangZhou, Zhejiang University of Technology, 2018-2021
 * Ph.D in WuHan, Central China Normal University, 2021-present
 
-Work experience
+Main Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Machine Learning; Theory in nuclear physics; Heavy-ion Collisions
   
 Skills
 ======
@@ -33,8 +25,7 @@ Skills
 * python(pytorch, Keras and tensorflow)
   * Machine learning
   * Automatic differentiation program
-  * Sub-skill 2.3
-* C++&mathematical&matlab
+* C++&Mathematical&Matlab
 
 Publications
 ======
