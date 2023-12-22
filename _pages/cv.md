@@ -1,4 +1,3 @@
-![image](https://github.com/leefp29/leefp29.github.io/assets/47920574/d7717a7a-2dea-438a-a2a4-9775656cf984)---
 layout: archive
 title: "CV"
 permalink: /cv/
