@@ -1,7 +1,7 @@
 ---
 title: "Deep-learning quasi-particle masses from QCD equation of state"
 collection: publications
-permalink: /publication/plb138088
+permalink: /publication/2023-09-10-Deep-learning quasi-particle_masses _rom_QCD_EOS
 excerpt: 'This paper is about pinn in QCD EOS.'
 date: 2023-09-10
 venue: 'Physics Letters B'
