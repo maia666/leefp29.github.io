@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student studying at [Central China Normal University](https://www.ccnu.edu.cn/) under the supervision of Prof. Long-Gang Pang, and my main research interests are in the application of machine learning to inverse problems in nuclear physic. For more personal information check out my [CV](https://leefp29.github.io/cv)!
+I am currently a PhD student studying at [Central China Normal University](https://www.ccnu.edu.cn/) under the supervision of Prof. Long-Gang Pang, and my main research interests are in the application of machine learning to inverse problems in nuclear physic. For more personal information check out my [CV](https://leefp29.github.io/cv)!The following is a brief introduction to my field of study, and I apologise for any errors or omissions that may be inevitable.
 
 Machine Learning&Deep Learning&Nuclear Physics
 ======
