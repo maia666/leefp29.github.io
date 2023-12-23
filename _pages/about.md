@@ -28,5 +28,7 @@ Posted by [Chun Shen](https://u.osu.edu/vishnu/author/shen-201-2/).
 
 Quantum Chromodynamics(QCD)
 ======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. QCD is a canonical theory describing the strong interaction of partons, which is a fundamental component of the Standard Model of particle physics.
+2. Current approaches to QCD are mainly divided into perturbative QCD (effective theory at high energy scales) and non-perturbative QCD (first-principles calculations at low energy scales).
+3. 
 
