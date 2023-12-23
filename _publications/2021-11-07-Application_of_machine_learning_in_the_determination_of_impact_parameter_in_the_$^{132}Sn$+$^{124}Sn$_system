@@ -8,7 +8,7 @@ venue: 'Physical Review C'
 paperurl: 'https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.034608'
 citation: 'Fu-Pung Li, Yongjia  Wang, Zepeng Gao et al. "Application of machine learning in the determination of impact parameter in the $^{132}Sn$ + $^{124}Sn$ system." Physical Review C. 104. 034608 (2021).'
 ---
-In this work, we employ three commonly used algorithms in machine learning, the artificial neural network (ANN), the convolutional neural network (CNN), and the light gradient boosting machine (LightGBM), to determine the impact parameter by analyzing either the charged particle spectra or several features simulated with events from the ultrarelativistic quantum molecular dynamics (UrQMD) model..
+In this work, we employ three commonly used algorithms in machine learning, the artificial neural network (ANN), the convolutional neural network (CNN), and the light gradient boosting machine (LightGBM), to determine the impact parameter by analyzing either the charged particle spectra or several features simulated with events from the ultrarelativistic quantum molecular dynamics (UrQMD) model.
 
 [Download paper here](https://doi.org/10.1103/PhysRevC.104.034608)
 
