@@ -23,7 +23,7 @@ Heavy-ion collisions
 1. The heavy ion collision is an experiment in which two atomic nuclei are accelerated to near the speed of light to collide. The products of the final state are observed by detectors and physically analysed so that certain important physical information about the initial state and the reaction process can be deduced. Examples include the nuclear structure of the initial state, the equation of state in the high density region, and the jet quenching.
 2. At present, the world's major high-energy heavy ion accelerators are the [RHIC](https://www.bnl.gov/rhic/) in the United States, the [LHC](https://home.cern/science/accelerators/large-hadron-collider) in Europe and the [HIAF](https://english.imp.cas.cn/research/facilities/HIAF/) in China (soon to be completed).
 3. For those interested in HICs, check out [this review](https://www.annualreviews.org/doi/10.1146/annurev-nucl-101917-020852).
-![](/images/HIC.jpg)Posted by Chun Shen.
+![](/images/HIC.jpg)Posted by [Chun Shen](https://u.osu.edu/vishnu/author/shen-201-2/).
 
 Quantum Chromodynamics(QCD)
 ======
