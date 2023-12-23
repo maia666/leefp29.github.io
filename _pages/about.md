@@ -10,10 +10,10 @@ redirect_from:
 
 I am currently a PhD student studying at [Central China Normal University](https://www.ccnu.edu.cn/) under the supervision of Prof. Long-Gang Pang, and my main research interests are in the application of machine learning to inverse problems in nuclear physic. For more personal information check out my [CV](https://leefp29.github.io/cv)!
 
-Machine Learning&Deep Learning
+Machine Learning&Deep Learning&Nuclear Physics
 ======
 Machine Learning as a subset of Artificial Intelligence has been successfully used in a wide range of research fields. For more explanation about it check out the [wiki](https://en.wikipedia.org/wiki/Machine_learning).
-Example: editing a markdown file for a talk
+Nuclear physics, a fundamental discipline in physics, focuses on the microstructure as well as the fundamental properties of matter.In recent years, there has been an increasing sophistication of research that combines methodological applications of machine learning with nuclear physics. For literature related to this cross-cutting area you can refer to [this website](https://iml-wg.github.io/HEPML-LivingReview/)
 ![Editing a markdown file for a talk](/images/MLDL.png)
 
 
