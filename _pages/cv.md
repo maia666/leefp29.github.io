@@ -22,7 +22,7 @@ Main Research Interests
 Skills
 ======
 * Fortran
-* python(pytorch, Keras and tensorflow)
+* Python(Pytorch, Keras and tensorflow)
   * Machine learning
   * Automatic differentiation program
 * C++&Mathematical&Matlab
