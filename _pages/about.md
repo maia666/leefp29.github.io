@@ -12,8 +12,9 @@ I am currently a PhD student studying at [Central China Normal University](https
 
 Machine Learning&Deep Learning&Nuclear Physics
 ======
-Machine Learning as a subset of Artificial Intelligence has been successfully used in a wide range of research fields. For more explanation about it check out the [wiki](https://en.wikipedia.org/wiki/Machine_learning).
-Nuclear physics, a fundamental discipline in physics, focuses on the microstructure as well as the fundamental properties of matter.In recent years, there has been an increasing sophistication of research that combines methodological applications of machine learning with nuclear physics. For literature related to this cross-cutting area you can refer to [this website](https://iml-wg.github.io/HEPML-LivingReview/)
+1. Machine Learning as a subset of Artificial Intelligence has been successfully used in a wide range of research fields. For more explanation about it check out the [wiki](https://en.wikipedia.org/wiki/Machine_learning).
+2. Nuclear physics, a fundamental discipline in physics, focuses on the microstructure as well as the fundamental properties of matter.In recent years, there has been an increasing sophistication of research that combines methodological applications of machine learning with nuclear physics.
+3. For literature related to this cross-cutting area you can refer to [this website](https://iml-wg.github.io/HEPML-LivingReview/).
 ![Editing a markdown file for a talk](/images/MLDL.png)
 
 
