@@ -20,12 +20,9 @@ Machine Learning&Deep Learning&Nuclear Physics
 
 Heavy-ion collisions
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. The heavy ion collision is an experiment in which two atomic nuclei are accelerated to near the speed of light to collide. The products of the final state are observed by detectors and physically analysed so that certain important physical information about the initial state and the reaction process can be deduced. Examples include the nuclear structure of the initial state, the equation of state in the high density region, and the jet quenching.
+2. At present, the world's major high-energy heavy ion accelerators are the [RHIC](https://www.bnl.gov/rhic/) in the United States, the [LHC](https://home.cern/science/accelerators/large-hadron-collider) in Europe and the [HIAF](https://english.imp.cas.cn/research/facilities/HIAF/) in China (soon to be completed).
+3. For those interested in HICs, check out [this review](https://www.annualreviews.org/doi/10.1146/annurev-nucl-101917-020852).
 
 Quantum Chromodynamics(QCD)
 ======
