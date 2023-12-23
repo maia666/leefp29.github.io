@@ -12,7 +12,9 @@ I am currently a PhD student studying at [Central China Normal University](https
 
 Machine Learning&Deep Learning
 ======
-Machine Learning as a subset of Artificial Intelligence has been successfully used in a wide range of research fields. For more explanation about it check out the [wiki](https://en.wikipedia.org/wiki/Machine_learning).[Editing a markdown file for a talk](/image/MLDL.png)
+Machine Learning as a subset of Artificial Intelligence has been successfully used in a wide range of research fields. For more explanation about it check out the [wiki](https://en.wikipedia.org/wiki/Machine_learning).
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/image/MLDL.png)
 
 
 Heavy-ion collisions
