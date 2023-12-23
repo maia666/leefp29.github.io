@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 2"
+title: "Finding signatures of the nuclear symmetry energy in heavy-ion collisions with deep learning"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2021-11-28-Finding_signatures_of_the_nuclear_symmetry_energy_in_heavy-ion collisions_with_deep_learning
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
